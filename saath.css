@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat&family=Poppins&display=swap');
+body{
+    background-color: bisque;
+}
+h1{
+   font-family: 'Dancing Script'; 
+   font-size: 5rem;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+  }
+  
+img {
+    width: 80%;
+  }
+  
+.clicks{
+    padding: 10px;
+    background-color: #4CAF50;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
